@@ -17,6 +17,9 @@ That's it. I am working on becoming an Expert in Js. Of course, I am still a fre
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fidel.livino/) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fidellplivino98@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258846861051)
+# Need Some Motivation?
+> *If you get tired, learn to rest,not to quit.*  
+> Banksy
 # Did You Know?
 My Github profile has  
 ![](https://komarev.com/ghpvc/?username=fideldemoz&color=brightgreen&style=for-the-badge)
