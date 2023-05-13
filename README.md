@@ -1,5 +1,5 @@
 # Fidel Livino Pedro
-![visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
+![](https://komarev.com/ghpvc/?username=fideldemoz&color=brightgreen&style=for-the-badge)
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fideldemoz.github.io/)  
 > I am a Self-taught Software developer specializing in `JavaScript`. I am currently working on my skills until I become a Full-stack Software Developer.  
 # My Story
@@ -19,7 +19,7 @@ That's it. I am working on becoming an Expert in Js. Of course, I am still a fre
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258846861051)
 # Did You Know?
 My Github profile has  
-![visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
+![](https://komarev.com/ghpvc/?username=fideldemoz&color=brightgreen&style=for-the-badge)
 # Read My Blog
 I talk about my learning experience and productivity techniques as well as I give tecnhical advise (teach about tech).  
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fideldemoz.github.io/)
